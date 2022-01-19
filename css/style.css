@@ -1,0 +1,123 @@
+
+
+#section2{
+    background-image: url('/img/unsplash_fYO1T495QCM.png');
+}
+#h1-carousel{
+position: absolute;
+width: 563px;
+height: 162px;
+left: 253px;
+top: 454px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 300;
+font-size: 36px;
+line-height: 54px;
+text-transform: uppercase;
+
+color: #FB6834;
+}
+#section3{
+    background-color: #FB6834;
+    
+}
+#h1-sub-section3{
+
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 45px;
+line-height: 67px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+
+#h5-sub-section3 {
+ padding-left: 120px;
+ 
+}
+
+.card{
+
+background-color: #FB6834;
+border: #FB6834;
+}
+#btn-css {
+  
+    background: #FFFFFF;
+    
+    
+}
+#input-sub{
+    
+    background-color:#FB6834; 
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom-color: white;
+    line-height: 30px;
+    
+    
+   
+}
+#p-btn{
+    
+width: 108px;
+height: 27px;
+padding: 10px;
+font-family: Poppins;
+font-style: normal;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+
+color: #FB6834;
+}
+#section4 h4{
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 26px;
+line-height: 32px;
+/* identical to box height */
+
+text-transform: uppercase;
+
+color: #484848;
+}
+#section4 input {
+
+border: 1px solid #484848;
+box-sizing: border-box;
+
+}
+#section4 button{
+    background: #484848;
+}
+
+#section textarea{
+    border: 1px solid #484848;
+    box-sizing: border-box;
+}
+
+footer h4{
+font-family: Poppins;
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+footer li{
+    display: inline;
+}
